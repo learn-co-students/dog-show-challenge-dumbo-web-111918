@@ -2,13 +2,13 @@
   "dogs": [
     {
       "id": 1,
-      "name": "Baby1",
+      "name": "Baby1111",
       "breed": "cutie pie",
-      "sex": "female"
+      "sex": "femaleZ"
     },
     {
       "id": 2,
-      "name": "Teddy11",
+      "name": "Teddy111",
       "breed": "Rhodesian Ridgeback",
       "sex": "female"
     },
@@ -20,13 +20,13 @@
     },
     {
       "id": 4,
-      "name": "Harvey",
+      "name": "BOB",
       "breed": "Irish Spaniel",
       "sex": "male"
     },
     {
       "id": 5,
-      "name": "Gracie",
+      "name": "GraciIII",
       "breed": "Miniature Pinscher",
       "sex": "female"
     },
